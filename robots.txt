@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+Sitemap: https://proimpressoes.com.br/sitemap.xml
